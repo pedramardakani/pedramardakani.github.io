@@ -1,0 +1,4 @@
+site_name: Pedram's Personal Website
+site_url: https://pedramardakani.github.io
+theme:
+  name: material
